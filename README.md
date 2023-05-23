@@ -1,20 +1,14 @@
-# ProjectR301
-
+# Project R301
 Ce projet a pour but de rendre disponible un site de E-commerce comprenant un back-end en PHP.
 
-## Ce projet est réalisé par Antoine FADDA RODRIGUEZ et Clément LEFEVRE
-
-### Stack technique :
-
+## Stack technique :
 - Base de données : MySQL
 - Langage Front-End : Angular
 - Langage Back-End (API REST) : PHP
-- Hébergeur : Digital Ocean
 
-## http://seinksansdoozebank.engineer/
-
-### Le dépôt de l'API est disponible [ici](https://github.com/Firelods/apiR301)
-
-
-Pour initialiser le projet chez vous : `npm i`
+## Installation
+Pour initialiser le projet chez vous : `npm i` après avoir installé node
 Pour avoir le rendu en local : `ng serve -o`
+
+## Réalisé par 
+[Clément LEFEVRE](https://github.com/Firelods) et Antoine FADDA RODRIGUEZ
